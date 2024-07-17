@@ -9,11 +9,11 @@
 # **but __NOT__ in front matter!!**
 
 remote_theme: "mmistakes/minimal-mistakes@4.14.1"
-title: Java Gems
+title: Ritika Mukherji
 url: https://ritika-mukherji.github.io/
-name: Java Gems
+name: Ritika Mukherji
 ##  > # this means to ignore newlines until "baseurl:"
-description: Just another Jekyll site
+description: Ritika Mukherji personal site
 baseurl: "/"
 show_downloads: false
 
@@ -40,7 +40,7 @@ highlighter: rouge
 #
 # minimal-mistakes customizations
 #
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "neon"
 title_separator: "|"
 breadcrumbs: true
 paginate: 10
