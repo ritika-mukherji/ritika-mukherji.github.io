@@ -3,7 +3,7 @@ title: About Me
 date: 2018-06-01
 layout: single
 author_profile: true
-permalink: /
+permalink: /about/
 author_profile: true
 ---
 

@@ -45,17 +45,17 @@ title_separator: "|"
 breadcrumbs: true
 paginate: 10
 paginate_path: /page:num/
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      read_time: true
-      author_profile: true
-      share: true
-      related: true
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       read_time: true
+#       author_profile: true
+#       share: true
+#       related: true
 author:
    name: "Ritika Mukherji"
    avatar: "https://media.licdn.com/dms/image/D4E03AQEdZ1flHraYJg/profile-displayphoto-shrink_200_200/0/1676237757879?e=2147483647&v=beta&t=G9cHPZR7oTw4cOUFeeWFTingP7sGqsDHuxAEycOY3rg"
