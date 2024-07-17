@@ -40,7 +40,7 @@ highlighter: rouge
 #
 # minimal-mistakes customizations
 #
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "neon" # air, contrast, dark, default, mint, neon, sunrise
 title_separator: "|"
 breadcrumbs: true
 paginate: 10
@@ -57,24 +57,20 @@ defaults:
       share: true
       related: true
 author:
-   name: "Ed Griebel"
+   name: "Ritika Mukherji"
    avatar: "https://www.gravatar.com/avatar/aac3ed50382d1bf4dcc7b91b4bb94ef4?size=250"
-   bio: "Placeholder bio!!"
+   bio: "Oxford DPhil student"
    links:
      - label: "GitHub"
        icon:  "fab fa-fw fa-github"
-       url:   "https://github.com/edgriebel"
+       url:   ""
      - label: "My Resume"
        icon:  "fas fa-file-pdf"
-       url:   "https://github.com/edgriebel/resume-cv/blob/master/Ed_Griebel_CV.pdf"
+       url:   ""
      - label: "LinkedIn"
        icon:  "fab fa-linkedin"
-       url:   "https://www.linkedin.com/in/edgriebel"
+       url:   ""
 repository: ritika-mukherji/ritika-mukherji.github.io
-twitter:
-   username: &twitter edgriebel
-linkedin:
-   username: edgriebel
 analytics:
    provider: 'google-gtag'
    google:
